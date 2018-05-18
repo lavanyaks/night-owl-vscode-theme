@@ -1,5 +1,5 @@
 {
-  "name": "Night Owl",
+  "name": "Night Owl - lks",
   "type": "dark",
   "colors": {
     "contrastActiveBorder": "#011627",
@@ -203,7 +203,7 @@
     {
       "name": "Global settings",
       "settings": {
-        "background": "#011627",
+        "background": "#222222",
         "foreground": "#d6deeb"
       }
     },
